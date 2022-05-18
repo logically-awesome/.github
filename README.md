@@ -1,1 +1,1 @@
-# .github
+K.I.S.S.
